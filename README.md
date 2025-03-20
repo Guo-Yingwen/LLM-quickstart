@@ -24,6 +24,11 @@
 git clone https://github.com/DjangoPeng/LLM-quickstart.git
 ```
 
+## 上传代码
+git add .
+git commit -m '说明'
+git push origin student_gyw
+
 ## 搭建开发环境
 
 本项目对于硬件有一定要求：GPU 显存不小于16GB，支持最低配置显卡型号为 NVIDIA Tesla T4。
